@@ -18,7 +18,7 @@
   "homepage": "https://github.com/pedrodls/worknow-server#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mysql2": "^2.3.0",
+    "mysql2": "^2.3.1",
     "sequelize": "^6.7.0",
     "uuid": "^8.3.2"
   }

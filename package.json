@@ -2,9 +2,9 @@
   "name": "worknow-server",
   "version": "1.0.0",
   "description": "Backend of worknow web application",
-  "main": "server.js",
+  "main": "/server/app.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server/app.js"
   },
   "repository": {
     "type": "git",

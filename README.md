@@ -10,3 +10,4 @@ UTech:
 - Nodemailer
 - JWT
 - Oauth2
+- UUID

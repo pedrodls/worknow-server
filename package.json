@@ -1,0 +1,25 @@
+{
+  "name": "worknow-server",
+  "version": "1.0.0",
+  "description": "Backend of worknow web application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrodls/worknow-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrodls/worknow-server/issues"
+  },
+  "homepage": "https://github.com/pedrodls/worknow-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.7.0",
+    "uuid": "^8.3.2"
+  }
+}
